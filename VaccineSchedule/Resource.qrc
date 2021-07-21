@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Pictures"/>
+    <qresource prefix="/qss">
+        <file>Irrorater.qss</file>
+        <file>Hookmark.qss</file>
+    </qresource>
+    <qresource lang=".pong" prefix="/img"/>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>img/vaccinePic1.png</file>
+        <file>img/vaccinePic2.jfif</file>
+        <file>img/images.jfif</file>
+    </qresource>
+</RCC>
